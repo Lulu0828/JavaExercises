@@ -9,6 +9,8 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 
+//对map、list、set分别进行遍历
+
 public class Traverse {
 
 	public static void main(String[] args) {
