@@ -4,6 +4,8 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
+//有2个线程，1个线程在控制台输出a，1个线程在控制台输出1到无穷大。要求：启动线程后要求输出：a1b2c3d4e5
+
 public class ThreadDemo {
 
 	public static void main(String[] args) {
